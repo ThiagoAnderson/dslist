@@ -1,6 +1,7 @@
 package com.javaprojeto.dslist.services;
 
 import com.javaprojeto.dslist.dto.GameDTO;
+import com.javaprojeto.dslist.dto.GameListDTO;
 import com.javaprojeto.dslist.dto.GameMinDTO;
 import com.javaprojeto.dslist.entities.Game;
 import com.javaprojeto.dslist.repositories.GameRepository;
