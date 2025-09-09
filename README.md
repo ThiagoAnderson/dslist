@@ -19,12 +19,21 @@ A aplicação consiste em uma API Rest para o manejo de Games, listar informaç�
 - Postgresql(prod)
 
 ## Outras
+- Postman
 - Docker
+
+## Competencias 
+- Padrão DTO
+- Padrão Camadas
+- Controller,Service,Repository
+- Padrão Rest para Web API
+- Estrutura de projeto Spring Rest
   
 # Como executar o projeto
 
 ## Back end
 Pré-requisitos: Java 21
+
 
 ```bash
 # clonar repositório
@@ -36,6 +45,7 @@ cd pasta-projeto
 # executar o projeto
 ./mvnw spring-boot:run
 ```
+
 # Autor
 
 Thiago Anderson
